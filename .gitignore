@@ -34,6 +34,8 @@ build/Release
 
 # Dependency directories
 ts-weather/node_modules/
+ts-checklist/node_modules/
+ts-react-checklist/node_modules/
 jspm_modules/
 
 # Typescript v1 declaraction files

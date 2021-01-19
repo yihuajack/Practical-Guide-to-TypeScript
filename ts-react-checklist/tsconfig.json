@@ -1,0 +1,36 @@
+{
+    "compilerOptions": {
+        "allowUnusedLabels": false,
+        "allowUnreachableCode": false,
+        "experimentalDecorators": true,
+        "module": "es2015",
+        "target": "es5",
+        "lib": [
+            "dom",
+            "es2015",
+            "es2016"
+        ],
+        "strict": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "noUnusedParameters": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "noUnusedLocals": true,
+        "allowSyntheticDefaultImports": true,
+        "strictFunctionTypes": false,
+        "skipLibCheck": false,
+        "baseUrl": "."
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "compileOnSave": false
+}
